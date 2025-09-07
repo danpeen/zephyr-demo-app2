@@ -8,7 +8,8 @@ const App = () => {
       textAlign:"center",
       backgroundColor:"cyan"
     }}>
-      <h1 >App 2</h1>
+      <h1>App 2</h1>
+      <h2 style={{color: "red"}}> This is the second app </h2>
     </div>
   )
 }
